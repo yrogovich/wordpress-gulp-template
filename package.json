@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "bourbon": "*",
+    "bourbon-neat": "*",
+    "browserify": "*",
+    "fullpage.js": "*",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "*",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "jquery": "*",
+    "node-sass": "^4.11.0",
+    "normalize-scss": "*",
+    "vinyl-source-stream": "*"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.4.0",
+    "smart-grid": "^2.1.2"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+vendor/
+app/wp/*
+app/plugins/*
+app/wp/local-config.php
+.idea/
+.phpintel/
